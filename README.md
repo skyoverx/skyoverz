@@ -1,2 +1,1 @@
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?skyoverz=anuraghazra&show_icons=true)
+![skyoverz github stats](https://github-readme-stats.vercel.app/api?username=skyoverz&show_icons=true)
