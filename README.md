@@ -1,3 +1,3 @@
-https://skyoverzzz-laba.glitch.me/
+[submit a new issue](https://skyoverzzz-laba.glitch.me/)
 ![SkyOver's github stats](https://github-readme-stats.vercel.app/api?username=skyoverz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyoverz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
