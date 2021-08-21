@@ -1,5 +1,7 @@
 ![SkyOver's github stats](https://github-readme-stats.vercel.app/api?username=skyoverz&show_icons=true&theme=radical)
-<hr/>
+<hr>
+<br/>
+
 ### 🧱 Languages and Tools
 
 
