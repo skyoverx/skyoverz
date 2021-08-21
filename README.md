@@ -32,12 +32,13 @@
         </a>
       </td>
     </tr>
+    <tr>
       <td>
         <a href="https://nodejs.org" target="_blank"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" height="30"/> 
         </a>
       </td>
-      <td>
+      <td style="background-color: #ffffff;">
         <a href="https://expressjs.com" target="_blank"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="30" /> 
         </a>
@@ -74,12 +75,10 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30"/> 
         </a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://getbootstrap.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="30"/> 
-      </a>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="30"/> 
+        </a>
       </td>
     </tr>
   </tbody>
